@@ -8,7 +8,6 @@ As someone who is always passionate for learning more about tech and life. Saiem
   * 🤝 &nbsp; Contribute to Open Source Projects
 
 <br />
-<br />
 📩 &nbsp; Feel free to contact him. He is always there for you...
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![LinkedIn](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/linkedin-icon.png)](https://www.linkedin.com/in/saiemsaeed/) &nbsp;&nbsp; [![Twitter](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/twitter-icon.png)](https://twitter.com/saiemsaeed) &nbsp;&nbsp; [![Instagram](https://raw.githubusercontent.com/saiemsaeed/saiemsaeed/master/instagram-icon.png)](https://www.instagram.com/saiemsaeed/)
