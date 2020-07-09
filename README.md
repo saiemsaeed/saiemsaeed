@@ -9,7 +9,7 @@ As someone who is always passionate for learning more about tech and life. Saiem
 
 <br />
 <br />
-📩 &nbsp; **Feel free to contact him. He is always there for you... **
+📩 &nbsp; Feel free to contact him. He is always there for you...
 
 <br />
 
