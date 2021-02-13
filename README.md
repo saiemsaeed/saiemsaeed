@@ -5,6 +5,7 @@ As someone who is always passionate for learning more about tech and life. Saiem
   * 👨🏻‍💻 &nbsp; Works at **Afiniti** as Full Stack Engineer, a multinational data and software company.
   * 💬 &nbsp; Current Stack `JavaScript / TypeScript, GraphQL React, Redux, Node / Express, Firebase (Firestore, RealtimeDB, Analytics), MongoDB, etc`.
   * 📖 &nbsp; Learning about `Microservices`
+  * 👀 &nbsp; Looking forward to working with SaaS Startups.
   * 🤝 &nbsp; Contribute to Open Source Projects
 
 <br />
