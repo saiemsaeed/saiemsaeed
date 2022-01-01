@@ -8,6 +8,12 @@ As someone who is always passionate for learning more about tech and life. Saiem
   * 👀 &nbsp; Looking forward to working with SaaS Startups.
   * 🤝 &nbsp; Contribute to Open Source Projects
 
+### Goals 2022:
+  * Committing Daily.
+  * Reading one book a month.
+  * Writing two blogs a month.
+  * ...
+
 <br />
 📩 &nbsp; Feel free to contact him. He is always there for you...
 
